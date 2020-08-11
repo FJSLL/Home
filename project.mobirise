@@ -44,7 +44,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/1776-oooo.plus0.ico",
+    "favicon": "@PROJECT_PATH@/assets/images/1776-oooo.plus1.ico",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
